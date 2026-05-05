@@ -6,7 +6,7 @@ import RecentSearches from './components/RecentSearches';
 import LoadingSpinner from './components/LoadingSpinner';
 import ErrorMessage from './components/ErrorMessage';
 
-const API_KEY = '0784518ae545a79041c29050dde52e3b';
+// const API_KEY = 'API_KEY' 
 const API_URL = 'https://api.openweathermap.org/data/2.5/weather';
 
 function App() {
